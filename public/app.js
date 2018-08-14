@@ -48,7 +48,7 @@ const chatHTML = `<main class="flex flex-column">
     <div class="title-wrapper block center-element">
       <img class="logo" src="http://feathersjs.com/img/feathers-logo-wide.png"
         alt="Feathers Logo">
-      <span class="title">Chat</span>
+      <span class="title">- abbas chat room</span>
     </div>
   </header>
 
